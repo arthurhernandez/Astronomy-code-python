@@ -1,1 +1,1 @@
-# Astronomy-code-python
+# Astronomy Code In Python
