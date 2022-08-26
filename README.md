@@ -2,9 +2,16 @@
 
 ## mass_radius_relationship.py
 
-Using the stellar mass-radius relation
+Using the stellar mass-radius relation:
 
 ![MRR](https://github.com/arthurhernandez/AstronomyUtilityTools/blob/main/ReadmeResources/Screen%20Shot%202022-08-25%20at%2010.45.30%20PM.png?raw=true)
+
+the predicted stellar radius is calculated with a curve of log base10 of the radius on the y axis and the log base 10 of the mass on the x-axis. 
+(β=4 for one solar mass and below and β=17 anything above 1 solar mass)
+
+### Data Source
+
+[debs.csv](https://github.com/arthurhernandez/AstronomyUtilityTools/blob/main/ReadmeResources/debs.csv)
 
 ## plank function.py
 
