@@ -2,8 +2,9 @@
 
 ## mass_radius_relationship.py
 
+## plank function.py
 
-## plots_from_magnitudes_and_parallax.py 
+## plots_from_magnitudes_and_parallax.py
 
 ploting Mv vs. B-V color-magnitude diagram for stars
 
@@ -17,9 +18,6 @@ ploting for the same stars using solar luminosities and temperatures
 
 [Ex1.csv](https://github.com/arthurhernandez/AstronomyUtilityTools/blob/main/ReadmeResources/Ex1.csv)
 
+## standard_deviation_residuals.py
 
-## plots_from_magnitudes_and_parallax.py
-
-## plots_from_magnitudes_and_parallax.py
-
-## plots_from_magnitudes_and_parallax.py
+## star_finding_chart.py
