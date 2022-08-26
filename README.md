@@ -2,6 +2,10 @@
 
 ## mass_radius_relationship.py
 
+Using the stellar mass-radius relation
+
+[MRR](https://github.com/arthurhernandez/AstronomyUtilityTools/blob/main/ReadmeResources/Screen%20Shot%202022-08-25%20at%2010.45.30%20PM.png)
+
 ## plank function.py
 
 ## plots_from_magnitudes_and_parallax.py
