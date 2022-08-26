@@ -4,6 +4,10 @@
 
 ploting Mv vs. B-V color-magnitude diagram for stars
 
-
+![Original CMD] (https://github.com/arthurhernandez/AstronomyUtilityTools/blob/main/ReadmeResources/CMDOriginal.pdf)
 
 ploting for the same stars using solar luminosities and temperatures
+
+
+## Data Source
+
