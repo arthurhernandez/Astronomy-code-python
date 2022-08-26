@@ -16,7 +16,7 @@ ploting Mv vs. B-V color-magnitude diagram for stars
 
 ploting for the same stars using solar luminosities and temperatures
 
-[CMD for L vs T](https://github.com/arthurhernandez/AstronomyUtilityTools/blob/main/ReadmeResources/annotated-CMD.pdf)
+![CMD for L vs T](https://github.com/arthurhernandez/AstronomyUtilityTools/blob/main/ReadmeResources/annotated-CMD.pdf)
 
 ### Data Source
 
