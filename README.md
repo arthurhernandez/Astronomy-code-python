@@ -4,7 +4,7 @@
 
 Using the stellar mass-radius relation
 
-[MRR](https://github.com/arthurhernandez/AstronomyUtilityTools/blob/main/ReadmeResources/Screen%20Shot%202022-08-25%20at%2010.45.30%20PM.png?raw=true)
+![MRR](https://github.com/arthurhernandez/AstronomyUtilityTools/blob/main/ReadmeResources/Screen%20Shot%202022-08-25%20at%2010.45.30%20PM.png?raw=true)
 
 ## plank function.py
 
