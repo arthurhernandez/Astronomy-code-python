@@ -15,6 +15,8 @@ the predicted stellar radius is calculated with a curve of log base10 of the rad
 
 ## plank function.py
 
+
+
 ## plots_from_magnitudes_and_parallax.py
 
 ploting Mv vs. B-V color-magnitude diagram for stars
